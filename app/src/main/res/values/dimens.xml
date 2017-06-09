@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cornerRadius">4dp</dimen>
+    <dimen name="marginHorizontal">8dp</dimen>
+    <dimen name="marginVertical">8dp</dimen>
+    <dimen name="width0dp">0dp</dimen>
+    <dimen name="height0dp">0dp</dimen>
+    <dimen name="imageheight">220dp</dimen>
+    <dimen name="iconwidth">40dp</dimen>
+</resources>
